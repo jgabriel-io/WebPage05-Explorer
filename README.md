@@ -35,4 +35,4 @@ Este projeto demonstra conceitos fundamentais de HTML e CSS, oferecendo uma expe
 
 ---
 
-Desenvolvido por João Gabriel | [Linkedin](https://www.linkedin.com/in/jgabriel522/) | 22/11/2023
+Desenvolvido por João Gabriel | [Linkedin](https://www.linkedin.com/in/jgabriel522/) | 17/12/2023
