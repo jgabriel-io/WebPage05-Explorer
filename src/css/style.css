@@ -9,6 +9,8 @@
 }
 
 body {
+    max-width: 90vw;
+    margin: 0 auto;
     background: #C5E1F9; 
     display: grid;
     justify-content: center;
@@ -72,4 +74,8 @@ p, h1, h2 {
     border-radius: 8px;
     margin: auto;
     margin-bottom: 32px;
+}
+
+.card img {
+    max-height: 200px;
 }
