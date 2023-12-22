@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #121214;
+    background: #C5E1F9; 
     display: grid;
     justify-content: center;
     padding: 72px 104px;
@@ -19,14 +19,14 @@ header h1 {
     font-weight: 900;
     font-size: 56px;
     line-height: 72px;
-    color: #02799d;
+    color: #FF6347;
 }
 
 header p {
     font-weight: 600;
     font-size: 32px;
     line-height: 40px;
-    color: #e1e1e6;
+    color: #333333;
 }
 
 main {
@@ -37,8 +37,8 @@ main {
 }
 
 .card {
-    background: #202024;
-    border: 2px solid #323238;
+    background: #FFFFFF; 
+    border: 2px solid #FFA500;
     border-radius: 8px;
     overflow: hidden;
     display: flex;
@@ -47,23 +47,25 @@ main {
 }
 
 .card h2 {
-    color: #e1e1e6;
     font-weight: 900;
     font-size: 36px;
     padding: 24px 32px 0;
 }
 
 .card p {
-    color: #c4c4cc;
     font-size: 18px;
     font-weight: 600;
     padding: 24px 32px 32px;
 }
 
+p, h1, h2 {
+    color: #333333; /* Preto ou cinza escuro */
+  }
+
 .card button {
     font-family: 'Mulish', sans-serif;
     font-size: 24px;
-    background: #02799d;
+    background: #FF6347;
     color: white;
     border: 0;
     padding: 10px 70px;
