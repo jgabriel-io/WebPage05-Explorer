@@ -22,7 +22,7 @@ Este é um projeto de Receitas Deliciosas desenvolvido durante a trilha Explorer
 
 - **Layout e Estilo:** Definição de estilos para os elementos da página, incluindo cartões de receitas, imagens e botões.
 
-## **📱 Responsividade**
+### **📱 Responsividade**
 
 - **Layout Responsivo:** Adaptação do layout para diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos variados.
 
