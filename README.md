@@ -1,4 +1,4 @@
-# Receitas Deliciosas
+# 🍰 Receitas Deliciosas
 
 ## **📝 Descrição**
 
